@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Adult content Dataset
 
-You can use the [editor on GitHub](https://github.com/noktedan/image_content_recognition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Description
+The Pornography dataset containing 18,000 different images. For the pornographic class, we have browsed websites which only host that kind of material (solving, in a way, the matter of purpose) and some social media platforms and some images extract from movies. The database consists of several genres of pornography and depicts actors of many ethnicities, including multi-ethnic ones. For the non-pornographic class, we have browsed general-public purpose images platform. In the figure below, we illustrate the diversity of the pornographic images  and the challenges of the non-pornographic ones. The huge diversity of cases in both pornographic and non pornographic images makes this task very challenging.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Disclaimer
 
-### Markdown
+THIS DATABASE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. The videos, segments, and images provided were produced by third-parties, who may have retained copyrights. They are provided strictly for non-profit research purposes, and limited, controlled distributed, intended to fall under the fair-use limitation. We take no guarantees or responsibilities, whatsoever, arising out of any copyright issue. Use at your own risk.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Download
 
-```markdown
-Syntax highlighted code block
+you can download the full dataset for non-profit research purposes here [Adult content dataset](https://guides.github.com/features/mastering-markdown/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noktedan/image_content_recognition/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Acknowledgements
+This work is supported by MUT University.
